@@ -13,6 +13,6 @@ Hey there! **amp7458**, also known online as **bmp7458** I’m a software develo
 - **Other Interests**: Firearms, Chemisty, and building stuff.
 ### 🌐 **Current Projects**
 - Running a WebSocket server at [mpp.7458.space](http://mpp.7458.space).
-- Working on improving inclusivity and accessibility for a diverse community on Discord.
+- Multiplayer Piano Multibot MIDI player
 
 Feel free to explore my repositories or reach out if you want to collaborate!
