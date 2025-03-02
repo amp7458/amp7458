@@ -12,7 +12,6 @@ Hey there! **amp7458**, also known online as **bmp7458** I’m a software develo
 - **Tools**: Visual Studio, VS Code, npm, GitHub, AWS, MongoDB, and Chrome Dev Tools 
 - **Other Interests**: Firearms, Chemisty, and building stuff.
 ### 🌐 **Current Projects**
-- Running a WebSocket server at [mpp.7458.space](http://mpp.7458.space).
-- Multiplayer Piano Multibot MIDI player
+- Developing my Multiplayer Piano clone @ <a href="https://mpp.7458.space">https://mpp.7458.space</a>
 
 Feel free to explore my repositories or reach out if you want to collaborate!
